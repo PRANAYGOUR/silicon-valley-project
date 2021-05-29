@@ -7,6 +7,11 @@ body {
   }
 
 
+.header{
+     position:relative;  left: 500px;
+}
+
+
 .item{
     position:relative; left:830px;  bottom: 350px;
 }
